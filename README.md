@@ -2,7 +2,7 @@
 Portfolio web site (HTML and CSS)
 
 
-🌍<b>web site:</b> <i><a href="https://thebest-coder.netlify.app" target="_blank">thebest-coder.netlify.app </a></i>
+🌍<b>web site:</b> <i>https://thebest-coder.netlify.app</i>
 
 # 🛠Technologist:
 🔹HTML
